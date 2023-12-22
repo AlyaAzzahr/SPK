@@ -1,0 +1,5 @@
+USER = 'postgres'
+PASSWORD = 'alyaar'
+HOST = 'localhost'
+PORT = '5432'
+DATABASE_NAME = 'alya'
